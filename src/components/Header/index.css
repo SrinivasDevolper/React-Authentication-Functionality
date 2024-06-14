@@ -1,0 +1,11 @@
+.header-cont {
+  display: flex;
+  align-items: center;
+}
+.header-cont h1 {
+  margin-right: 20px;
+}
+
+.header-links {
+  font-size: 20px;
+}
